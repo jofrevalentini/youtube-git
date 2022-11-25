@@ -1,0 +1,152 @@
+commit d14243f5b23115cbddfa171daf1e1099dde1e8eb
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 22:45:50 2022 -0500
+
+    Agregando dos parrafos
+
+commit fddf22e5296f35e01dbd5f37bdcee1f77db0fa6f
+Merge: 3028b92 4f4b4f2
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 22:43:55 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 3028b92d0e2628838a9483aa79ca5c25596b0d04
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 21:54:16 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 4f4b4f223b44a473f411cb84b59efc70ffee4408
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 21:54:16 2022 -0500
+
+    añandiendo las estaciones del año
+
+commit 6c2b2425291205fadce79902015cf538859361ef
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 21:37:44 2022 -0500
+
+    agregando direcciones
+
+commit b3d4bf52b6bacedb1f2f131d2e9064f530b3b1f1
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 21:34:29 2022 -0500
+
+    ultimo comi
+
+commit 74c0dde367bc3dc8aefc8b9f12fc4fb39ecde479
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 21:27:35 2022 -0500
+
+    nuevo mensaje
+
+commit 71fa7fe057d402e40ba85c536f680a08fd3a44fc
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 21:25:03 2022 -0500
+
+    hola
+
+commit baa715130f4982252dc5128b65dbc57c55f095f7
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 21:19:17 2022 -0500
+
+    This reverts commit 514702dca9ed39647210004704d3353eb31ebc78.
+
+commit 514702dca9ed39647210004704d3353eb31ebc78
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 21:17:56 2022 -0500
+
+    quitando commits
+
+commit 954943a9d4233c5f9efb7921e0e973a3ad3a0551
+Merge: 65c95b6 06e0648
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 16:58:27 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 06e0648c5bcab6aa30369336abea727e79f2919f
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 16:42:39 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 65c95b6f677f9d742bef0d8aa0f3e7663eb057f6
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Wed Nov 23 16:35:23 2022 -0500
+
+    Agregando style.css al index.html
+
+commit b7fcd2e7d7735f1d681c440a34dddfcbafd39bfe
+Merge: 8c47f39 cf3bee4
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Thu Nov 10 19:20:57 2022 -0500
+
+    Merge branch 'js'
+
+commit cf3bee4117b7a1eca1e3f7bdf5431b81a1ec255b
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Thu Nov 10 15:09:55 2022 -0500
+
+    Creando index.js
+
+commit 8c47f395984ad845b6ede30de12700571b0d5204
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Thu Nov 10 14:45:13 2022 -0500
+
+    Creando style.css
+
+commit 9387333ac53250b222cddebad29b9f7c042ad303
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Thu Nov 10 13:02:28 2022 -0500
+
+    Creando index.html
+
+commit 6847023cf8aeca7f5f9e4e344b35d606bb15c1bc
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Thu Nov 10 11:49:34 2022 -0500
+
+    Ignorando archivos .exe
+
+commit a508f717cbd65c66b97aed666d0e406ee4f13548
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Thu Nov 10 11:45:15 2022 -0500
+
+    nuevos cambios
+
+commit 325eb8a6f0715a3e87cc0a73d0a8d1e436837f9a
+Author: Jofre Valentini <93099995+jofrevalentini@users.noreply.github.com>
+Date:   Tue Nov 8 16:48:25 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 71c7e08f419f425b35d07e7da00c49c6b20381f6
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Tue Nov 8 16:39:45 2022 -0500
+
+    Quitando el ultimo commit
+
+commit 64543e3d375b34b01fd88d33c6026c85ccd94a94
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Tue Nov 8 16:39:11 2022 -0500
+
+    ultimo commit agregado
+
+commit e095d23a1361f78dd908ced27d6c1a93926a4971
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Tue Nov 8 16:38:08 2022 -0500
+
+    Agregando más contenido al README
+
+commit d24afb6e113bbabac7563159194ca9f92fa686a8
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Nov 7 19:02:20 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 51e840a0fff114bc54159ff3b10a9822b43aa7fb
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Mon Nov 7 18:16:13 2022 -0500
+
+    Primer commit 😄

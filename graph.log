@@ -1,0 +1,32 @@
+* d14243f Agregando dos parrafos
+*   fddf22e Resolviendo conflicto en estaciones del año y fecha de inicio
+|\  
+| * 4f4b4f2 añandiendo las estaciones del año
+* | 3028b92 Agregando estaciones del año con fecha de inicio
+|/  
+* 6c2b242 agregando direcciones
+* b3d4bf5 ultimo comi
+* 74c0dde nuevo mensaje
+* 71fa7fe hola
+* baa7151 This reverts commit 514702dca9ed39647210004704d3353eb31ebc78.
+* 514702d quitando commits
+*   954943a Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 06e0648 Agregando index.js al index.html
+* | 65c95b6 Agregando style.css al index.html
+* |   b7fcd2e Merge branch 'js'
+|\ \  
+| * | cf3bee4 Creando index.js
+* | | 8c47f39 Creando style.css
+| |/  
+|/|   
+* | 9387333 Creando index.html
+|/  
+* 6847023 Ignorando archivos .exe
+* a508f71 nuevos cambios
+* 325eb8a Creando licencia del repositorio
+* 71c7e08 Quitando el ultimo commit
+* 64543e3 ultimo commit agregado
+* e095d23 Agregando más contenido al README
+* d24afb6 Agregando contenido inicial al README
+* 51e840a Primer commit 😄
