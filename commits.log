@@ -1,3 +1,48 @@
+commit 49686fc332b5130d2fc8936e4446aee2d6f8785d
+Merge: ca68ef2 deb4cac
+Author: Jofre Valentini <93099995+jofrevalentini@users.noreply.github.com>
+Date:   Tue Dec 27 10:46:00 2022 -0500
+
+    Merge pull request #1 from cramirezsoto/readme-carlos
+    
+    nuevos cambios ya solucionados
+
+commit deb4cac28bede9f4509f84b50cdc948609ee8699
+Author: carlos ramirez <cramirezsotoz10@gmail.com>
+Date:   Tue Dec 27 10:19:59 2022 -0500
+
+    nuevos cambios ya solucionados
+
+commit ca68ef240f334e299c0a1a158c5d9b027d232db5
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Fri Nov 25 22:14:53 2022 -0500
+
+    Agregando imagen de flujo GIT y poniendo chulo el index.html
+
+commit 536e9bc5088cd33f66820243d78c8299cfbf2710
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Fri Nov 25 21:18:21 2022 -0500
+
+    v1.0.0
+
+commit cf4773d46b567d5a3edb74c979e809b7e81cf86d
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Fri Nov 25 21:14:53 2022 -0500
+
+    v2.0.0
+
+commit b2dd4ccc0bce9c95501443313f2968cfe8904de0
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Fri Nov 25 19:00:09 2022 -0500
+
+    v1.0.0
+
+commit b3d5da2dfcb2950ccac5f5328895fb78b1de1a5e
+Author: Jofre Valentini <jofree36@gmail.com>
+Date:   Fri Nov 25 16:00:10 2022 -0500
+
+    respaldando logs del repositorio
+
 commit d14243f5b23115cbddfa171daf1e1099dde1e8eb
 Author: Jofre Valentini <jofree36@gmail.com>
 Date:   Wed Nov 23 22:45:50 2022 -0500
